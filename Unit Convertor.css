@@ -1,0 +1,53 @@
+body{
+    background: black;
+    font-size: 20px;
+}
+
+#all{
+    width: 100%;
+    margin: 100px auto;
+    text-align: center;
+}
+
+#hh{
+    color: white;
+}
+#first{
+    margin-top: 50px;
+}
+
+#first label{
+    color: white;
+    margin-right: 50px;
+    font-size: 25px;
+}
+
+#first input{
+    margin-right: 50px;
+    padding: 8px 60px; 
+}
+
+#second{
+    width: 100%;
+    text-align: center;
+    margin-top: 80px;
+}
+
+#button{
+    padding: 5px 70px;
+    background: red;
+    color: white;
+}
+
+#button:hover{
+    background:white;
+    color:red;
+}
+
+#result{
+    color:gold;
+    text-align: center;
+    width: 100%;
+    margin-top: 80px;
+    font-size: 25px;
+}
